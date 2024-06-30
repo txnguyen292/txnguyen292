@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @txnguyen292
 - 👀 I’m interested in machine learning, data science and programing
-- 🌱 I’m currently learning machine learning deployment
+- 🌱 I’m currently working as machine learning engineer/data scientist
 - 💞️ I’m looking to collaborate on any open-source machine learning projects
 - 📫 You can reach me at: txnguyen2921@gmail.com
 
